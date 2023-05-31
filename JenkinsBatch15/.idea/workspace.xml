@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dfb25ec-45e9-474f-9f43-29f6dc7193ff" name="Changes" comment="First Commit" />
+    <list default="true" id="4dfb25ec-45e9-474f-9f43-29f6dc7193ff" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/../CucumberBatch15/src/test/java/TestRunner/SmokeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBatch15/src/test/java/TestRunner/SmokeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBatch15/src/test/java/Utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBatch15/src/test/java/Utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBatch15/src/test/resources/Config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBatch15/src/test/resources/Config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBatch15/target/Cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBatch15/target/Cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBatch15/target/Cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBatch15/target/Cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBatch15/target/test-classes/Config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBatch15/target/test-classes/Config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBatch15/target/test-classes/TestRunner/SmokeRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBatch15/target/test-classes/TestRunner/SmokeRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBatch15/target/test-classes/Utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBatch15/target/test-classes/Utils/CommonMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +67,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685495890641</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Commit">
+      <created>1685496034056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685496034056</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First Commit">
+      <created>1685496098880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685496098880</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First Commit">
+      <created>1685496141086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685496141086</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
